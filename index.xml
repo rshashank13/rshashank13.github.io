@@ -33,18 +33,18 @@
     </item>
     
     <item>
-      <title>Trojan Detection: Meta Neural Networks for Trojan Detection (MNTD)</title>
-      <link>https://rshashank13.github.io/project/mntd/</link>
-      <pubDate>Mon, 17 Apr 2023 14:18:13 -0700</pubDate>
-      <guid>https://rshashank13.github.io/project/mntd/</guid>
+      <title>Store Sales - Time Series Forecasting</title>
+      <link>https://rshashank13.github.io/project/storesales/</link>
+      <pubDate>Thu, 01 Dec 2022 11:21:33 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/storesales/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Store Sales - Time Series Forecasting</title>
-      <link>https://rshashank13.github.io/project/storesales/</link>
-      <pubDate>Mon, 17 Apr 2023 11:21:33 -0700</pubDate>
-      <guid>https://rshashank13.github.io/project/storesales/</guid>
+      <title>Trojan Detection: Meta Neural Networks for Trojan Detection (MNTD)</title>
+      <link>https://rshashank13.github.io/project/mntd/</link>
+      <pubDate>Wed, 31 Aug 2022 14:18:13 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/mntd/</guid>
       <description></description>
     </item>
     
@@ -240,7 +240,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-296874513&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-314652897&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -250,7 +250,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-296874513&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-314652897&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
