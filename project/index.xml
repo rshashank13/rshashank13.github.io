@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Portfolio</title>
+    <link>https://rshashank13.github.io/project/</link>
+      <atom:link href="https://rshashank13.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Apr 2023 11:21:33 -0700</lastBuildDate>
+    <image>
+      <url>https://rshashank13.github.io/media/icon_hue9396469e0ea69a8340329e03e250d4c_5225574_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://rshashank13.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Store Sales - Time Series Forecasting</title>
+      <link>https://rshashank13.github.io/project/storesales/</link>
+      <pubDate>Mon, 17 Apr 2023 11:21:33 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/storesales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
