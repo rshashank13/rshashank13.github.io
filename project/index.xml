@@ -5,12 +5,28 @@
     <link>https://rshashank13.github.io/project/</link>
       <atom:link href="https://rshashank13.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 11:21:33 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 23:47:12 -0700</lastBuildDate>
     <image>
       <url>https://rshashank13.github.io/media/icon_hu53806bb9abc172e560e180861ceaa81b_441467_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://rshashank13.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>[Paper Presentation] - Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks</title>
+      <link>https://rshashank13.github.io/project/gnn4fknws/</link>
+      <pubDate>Wed, 19 Apr 2023 23:47:12 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/gnn4fknws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Paper Role Playing] Neural Word Embeddings as Implicit Matrix Factorization</title>
+      <link>https://rshashank13.github.io/project/nnasmf/</link>
+      <pubDate>Fri, 31 Mar 2023 23:57:32 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/nnasmf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Store Sales - Time Series Forecasting</title>
