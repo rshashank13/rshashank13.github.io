@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Portfolio</title>
+    <title>Projects | Shashank&#39;s Portfolio</title>
     <link>https://rshashank13.github.io/project/</link>
       <atom:link href="https://rshashank13.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 23:47:12 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Apr 2023 17:58:36 -0700</lastBuildDate>
     <image>
-      <url>https://rshashank13.github.io/media/icon_hu53806bb9abc172e560e180861ceaa81b_441467_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rshashank13.github.io/media/icon_hudfd7cd22a6f5f84321dc67784ce2c428_265953_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://rshashank13.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Fakenews</title>
+      <link>https://rshashank13.github.io/project/fakenews/</link>
+      <pubDate>Sat, 22 Apr 2023 17:58:36 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/fakenews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward-Forward: Is it time to bid adieu to Backprop?</title>
+      <link>https://rshashank13.github.io/project/ff/</link>
+      <pubDate>Sat, 22 Apr 2023 17:34:55 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/ff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Paper Presentation] - Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks</title>

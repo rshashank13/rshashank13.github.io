@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio</title>
+    <title>Shashank&#39;s Portfolio</title>
     <link>https://rshashank13.github.io/</link>
       <atom:link href="https://rshashank13.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Portfolio</description>
+    <description>Shashank&#39;s Portfolio</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rshashank13.github.io/media/icon_hu53806bb9abc172e560e180861ceaa81b_441467_512x512_fill_lanczos_center_3.png</url>
-      <title>Portfolio</title>
+      <url>https://rshashank13.github.io/media/icon_hudfd7cd22a6f5f84321dc67784ce2c428_265953_512x512_fill_lanczos_center_3.png</url>
+      <title>Shashank&#39;s Portfolio</title>
       <link>https://rshashank13.github.io/</link>
     </image>
     
@@ -30,6 +30,22 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Fakenews</title>
+      <link>https://rshashank13.github.io/project/fakenews/</link>
+      <pubDate>Sat, 22 Apr 2023 17:58:36 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/fakenews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward-Forward: Is it time to bid adieu to Backprop?</title>
+      <link>https://rshashank13.github.io/project/ff/</link>
+      <pubDate>Sat, 22 Apr 2023 17:34:55 -0700</pubDate>
+      <guid>https://rshashank13.github.io/project/ff/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -256,7 +272,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-387562914&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-946718523&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -266,7 +282,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-387562914&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-946718523&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
