@@ -1,15 +1,15 @@
 {
-  "name": "Shashank's Portfolio",
-  "short_name": "Shashank's Portfolio",
+  "name": "Shashank Rangarajan",
+  "short_name": "Shashank Rangarajan",
   "lang": "en-us",
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/media/icon_hudfd7cd22a6f5f84321dc67784ce2c428_265953_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu53806bb9abc172e560e180861ceaa81b_441467_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hudfd7cd22a6f5f84321dc67784ce2c428_265953_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu53806bb9abc172e560e180861ceaa81b_441467_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
