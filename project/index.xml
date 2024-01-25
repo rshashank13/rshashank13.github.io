@@ -5,12 +5,20 @@
     <link>https://rshashank13.github.io/project/</link>
       <atom:link href="https://rshashank13.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Apr 2023 17:34:55 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Dec 2023 12:52:48 -0800</lastBuildDate>
     <image>
       <url>https://rshashank13.github.io/media/icon_hu53806bb9abc172e560e180861ceaa81b_441467_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://rshashank13.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>SightSync: Shazam for Video</title>
+      <link>https://rshashank13.github.io/project/sightsync/</link>
+      <pubDate>Mon, 25 Dec 2023 12:52:48 -0800</pubDate>
+      <guid>https://rshashank13.github.io/project/sightsync/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forward-Forward: Is it time to bid adieu to Backprop?</title>
