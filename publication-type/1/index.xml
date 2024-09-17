@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Shashank Rangarajan</title>
-    <link>https://rshashank13.github.io/publication/</link>
-      <atom:link href="https://rshashank13.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>1 | Shashank Rangarajan</title>
+    <link>https://rshashank13.github.io/publication-type/1/</link>
+      <atom:link href="https://rshashank13.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rshashank13.github.io/media/icon_hu72c4af37bf529c991fcded0049a4eda1_8673735_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://rshashank13.github.io/publication/</link>
+      <title>1</title>
+      <link>https://rshashank13.github.io/publication-type/1/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://rshashank13.github.io/publication/intel/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://rshashank13.github.io/publication/intel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Apriori Method for Topic Extraction from Text Files</title>
-      <link>https://rshashank13.github.io/publication/ijrte/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rshashank13.github.io/publication/ijrte/</guid>
       <description></description>
     </item>
     
